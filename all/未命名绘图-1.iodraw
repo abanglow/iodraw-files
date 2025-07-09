@@ -200,6 +200,9 @@
             <mxPoint x="757" y="1336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-60" value="移交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="83" y="1321" width="42" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
