@@ -91,6 +91,12 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-27" value="信息中心科长在科会中宣布重大事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="98" y="729" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-28" value="经过院内 OA 邮件给科长发表意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="281" y="729" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="483" y="729" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
