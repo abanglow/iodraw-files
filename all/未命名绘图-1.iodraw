@@ -127,13 +127,13 @@
           <mxGeometry x="627" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-42" value="信息中心主任" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="56" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="52" y="1222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-43" value="专人管理、行风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293" y="1222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-44" value="反统方软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="1222" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
