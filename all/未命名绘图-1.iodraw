@@ -126,8 +126,14 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-41" value="信息中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="627" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QjYrC3NLm9d5rtY2kauA-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-42" value="信息中心主任" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="56" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-43" value="专人管理、行风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="453" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
