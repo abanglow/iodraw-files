@@ -133,7 +133,7 @@
           <mxGeometry x="293" y="1222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-44" value="反统方软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="567" y="1222" width="120" height="60" as="geometry" />
+          <mxGeometry x="529" y="1222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-45" value="纪检部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="46" y="1427" width="120" height="60" as="geometry" />
@@ -145,10 +145,10 @@
           <mxGeometry x="564" y="1436" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-48" value="疑似统方查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1327" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjYrC3NLm9d5rtY2kauA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="585" y="1337" width="120" height="60" as="geometry" />
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-49" value="不涉及统方查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="649" y="1327" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
