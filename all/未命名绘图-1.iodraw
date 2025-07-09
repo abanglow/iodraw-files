@@ -123,6 +123,9 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;信息中心重大事项决策流程图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="284" y="647" width="245" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-41" value="信息中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="627" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
