@@ -106,6 +106,11 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-29" value="信息中心科会中宣布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="533.5" y="729" width="120" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QjYrC3NLm9d5rtY2kauA-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="815.6470588235295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-30" value="信息中心核心小组(张浚、杨雪、董波、王虎)讨论并做最后决定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="536" y="912" width="120" height="84" as="geometry" />
         </mxCell>
@@ -113,7 +118,7 @@
           <mxGeometry x="405" y="733" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjYrC3NLm9d5rtY2kauA-37" value="科室意见投票不能决定时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="407" y="854" width="60" height="30" as="geometry" />
+          <mxGeometry x="332" y="854" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
