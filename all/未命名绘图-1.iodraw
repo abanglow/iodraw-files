@@ -141,8 +141,14 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-46" value="确认统方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293" y="1431" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjYrC3NLm9d5rtY2kauA-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-47" value="正常查询数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="564" y="1436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-48" value="疑似统方查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="585" y="1337" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
