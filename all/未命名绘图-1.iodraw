@@ -120,6 +120,14 @@
         <mxCell id="QjYrC3NLm9d5rtY2kauA-37" value="科室意见投票不能决定时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="332" y="854" width="135" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QjYrC3NLm9d5rtY2kauA-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.3529411764707" y="661.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjYrC3NLm9d5rtY2kauA-39" value="信息中心重大事项决策流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="647" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
